@@ -1,0 +1,4 @@
+#Sun Dec 25 13:06:34 IST 2022
+base.0=/Users/savitashukla/Documents/Public GitHub Code/QR-Scanner/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
